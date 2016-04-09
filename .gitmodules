@@ -1,0 +1,3 @@
+[submodule "SegPhrase"]
+	path = SegPhrase
+	url = git://github.com/shangjingbo1226/SegPhrase.git

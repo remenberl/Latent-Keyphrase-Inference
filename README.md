@@ -35,7 +35,6 @@ LAKI can be easily built by Makefile in the terminal.
 
 ```
 $ make
-$ make test
 ```
 
 ## Default Run
